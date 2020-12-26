@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="button_send_text">send</string>
+    <string name="main_activity_welcome_text">Welcome to <b>Main</b> Activity screen</string>
+    <string name="second_activity_welcome_text">Welcome to <b>Second</b> Activity Screen</string>
+    <string name="text_edit_hint">Enter your message here</string>
+</resources>
